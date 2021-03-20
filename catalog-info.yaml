@@ -3,6 +3,8 @@ kind: Component
 metadata:
   name: velann-goapp
   description: velan go app is used to create the sample app
+  tags:
+    - go
   annotations: 
     github.com/project-slug: velann21/go-app
     backstage.io/source-ref: "https://github.com/velann21/go-app"
